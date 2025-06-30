@@ -6,24 +6,6 @@
 
 **Nhóm sinh viên: 3**
 
-**&lt;21-1-2025&gt;**
-
-**_Copyright © 2025 by …_**
-
-**MỤC LỤC**
-
-1. [Phạm vi 1](#_bookmark0)
-    1. [Mục đích 1](#_bookmark1)
-    2. [Nhận diện 1](#_bookmark2)
-    3. [Kiến trúc hệ thống 1](#_bookmark3)
-2. [Các yêu cầu chức năng 2](#_bookmark4)
-    1. [Mô tả hệ thống 2](#_bookmark5)
-    2. [Các chức năng của hệ thống 2](#_bookmark6)
-    3. [Đặc tả use-case 2](#_bookmark7)
-3. [Yêu cầu về hiệu năng 11](#_bookmark8)
-
-# Phạm vi
-
 ## Mục đích
 
 Mô tả các yêu cầu và phạm vi kiểm thử đối với hệ thống CGV Cinemas. Tài liệu này sẽ xác định các chức năng và tính năng của hệ thống cần được kiểm thử để đảm bảo rằng hệ thống hoạt động đúng và đáp ứng các yêu cầu của người dùng.
